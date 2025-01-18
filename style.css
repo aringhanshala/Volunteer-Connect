@@ -30,6 +30,7 @@ body {
     background-color: #e8f5e9;
     padding: 50px 20px;
     text-align: center;
+    height: 10rem;
   }
 
   .hero h1 {
@@ -51,7 +52,7 @@ body {
 
   .featured {
     padding: 20px;
-    height:16rem;
+    height:19rem;
   }
 
   .featured h2 {
@@ -95,10 +96,12 @@ body {
     background-color: #45a049;
   }
 
+
   footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 10px 0;
-    margin-top: 40px;
+    height:3rem;
+    display:flex;
+    justify-content: center;
   }
