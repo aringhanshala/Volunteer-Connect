@@ -58,4 +58,9 @@ This project is licensed under the © GEU_TDH 2025.
 
 ---
 
-*Together, let’s make a positive impact!*
+
+## Live Demo
+
+Check out the live demo of the website https://aringhanshala.github.io/Volunteer-Connect/.
+
+Feel free to explore the code and provide any feedback or suggestions!
